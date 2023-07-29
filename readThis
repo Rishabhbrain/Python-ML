@@ -1,0 +1,14 @@
+Pre-rquisites
+
+1. Modules
+  1. torch
+  2. opencv-python
+  3. numpy
+  4. pandas
+  5. requests
+  6. pillow
+  7. psutil
+  8. torchvision
+  9. pyyaml
+  10. tqdm
+  11. ultralytics
