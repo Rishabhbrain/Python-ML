@@ -12,3 +12,28 @@ Pre-rquisites
   9. pyyaml
   10. tqdm
   11. ultralytics
+
+
+use of the above modules:
+
+torch: This module refers to PyTorch, which is a popular deep learning library. It provides support for building and training neural networks and is widely used for various machine learning tasks, including computer vision, natural language processing, and more.
+
+opencv-python: OpenCV is a computer vision library that offers various functions for image and video processing. It is commonly used for tasks such as reading and writing images, image filtering, object detection, and computer vision applications.
+
+numpy: NumPy is a fundamental library for numerical computations in Python. It provides support for large, multi-dimensional arrays and matrices, as well as a collection of mathematical functions to operate on these arrays.
+
+pandas: Pandas is a data manipulation library used for data analysis and data cleaning tasks. It provides data structures like DataFrames and Series, along with functions for data selection, filtering, grouping, and aggregation.
+
+requests: The requests module is used for making HTTP requests in Python. It allows you to interact with web APIs, send data to servers, and retrieve data from them.
+
+pillow: Pillow (Python Imaging Library) is used for working with images in Python. It provides functionalities for opening, manipulating, and saving various image formats.
+
+psutil: Psutil is a cross-platform library for retrieving system information and process utilities. It allows you to access information about CPU, memory, disks, network, and more.
+
+torchvision: Torchvision is a PyTorch package specifically designed for computer vision tasks. It provides utilities for data loading, transformations, and common datasets used in computer vision.
+
+pyyaml: PyYAML is used for working with YAML files in Python. YAML is a human-readable data serialization format, often used for configuration files and data exchange between different programming languages.
+
+tqdm: Tqdm stands for "tqdm (taqaddum) means progress" and is used for adding progress bars to loops and iterations. It provides a simple way to visualize the progress of lengthy operations.
+
+ultralytics: Ultralytics is a repository that hosts pre-trained models and tools for various computer vision tasks. It includes YOLOv5, which is a popular object detection algorithm.
